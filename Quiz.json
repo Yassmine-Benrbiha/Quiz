@@ -1,0 +1,160 @@
+﻿{
+  "title": "Design Patterns",
+  "createdBy": "admin",
+  "questions": [
+    {
+      "text": "In SOLID principle, O stands for:",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Objects and Variables",
+          "value": false
+        },
+        {
+          "text": "Open-Closed Principle",
+          "value": true
+        },
+        {
+          "text": "Object Oriented Programming",
+          "value": false
+        },
+        {
+          "text": "OutOfMemory Exception",
+          "value": false
+        }
+      ]
+    },
+    {
+      "text": "Which pattern defines an interface for creating an object, but let the subclasses decide which class to instantiate. It let the instantiation differ to subclasses.",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Factory Method",
+          "value": true
+        },
+        {
+          "text": "Abstract Factory",
+          "value": false
+        },
+        {
+          "text": "Builder",
+          "value": false
+        },
+        {
+          "text": "Prototype",
+          "value": false
+        }
+      ]
+    },
+    {
+      "text": "Which pattern attach the additional responsibilities to an object dynamically.It provides a flexible alternative to subclassing for extending functionality.",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Chain of responsibility",
+          "value": false
+        },
+        {
+          "text": "Adapter",
+          "value": false
+        },
+        {
+          "text": "Decorator",
+          "value": true
+        },
+        {
+          "text": "Composite",
+          "value": false
+        }
+      ]
+    },
+    {
+      "text": "Singleton pattern is a (according to Gang of Four):",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Creational Pattern",
+          "value": true
+        },
+        {
+          "text": "Behavioural Pattern",
+          "value": false
+        },
+        {
+          "text": "Structural Pattern",
+          "value": false
+        },
+        {
+          "text": "None of the above",
+          "value": false
+        }
+      ]
+    },
+    {
+      "text": "MVC, MVP and MVVP are related to which layer of software architecture?",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Data Access Layer",
+          "value": false
+        },
+        {
+          "text": "Business/Service Layer",
+          "value": false
+        },
+        {
+          "text": "Third Party Library",
+          "value": false
+        },
+        {
+          "text": "User Interface",
+          "value": true
+        }
+      ]
+    },
+    {
+      "text": "Which pattern defines a family of algorithms, encapsulate each one, and make them interchangeable. It lets the algorithm vary independently from clients that use it?",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Template method",
+          "value": false
+        },
+        {
+          "text": "Decorator",
+          "value": false
+        },
+        {
+          "text": "Strategy",
+          "value": true
+        },
+        {
+          "text": "Visitor",
+          "value": false
+        }
+      ]
+    },
+    {
+      "text": "Which pattern define one to many dependency between objects so that when one object change state, all its dependent are notified and updated automatically?",
+      "type": "Multiple Choice",
+      "options": [
+        {
+          "text": "Chain of responsibility",
+          "value": false
+        },
+        {
+          "text": "Observer Pattern",
+          "value": true
+        },
+        {
+          "text": "Event Notification",
+          "value": false
+        },
+        {
+          "text": "Deligate Pattern",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

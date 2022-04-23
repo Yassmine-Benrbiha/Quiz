@@ -1,0 +1,54 @@
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\Components.deps.json
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\Components.dll
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\Components.pdb
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\Backend\Components\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.csproj.AssemblyReference.cache
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfoInputs.cache
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfo.cs
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.csproj.CoreCompileInputs.cache
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\scopedcss\bundle\Components.styles.css
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.csproj.CopyComplete
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.dll
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\projects\MyProject\Backend\Components\obj\Debug\net6.0\Components.pdb
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\Components.deps.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\Components.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\Components.pdb
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.csproj.AssemblyReference.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfoInputs.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfo.cs
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.csproj.CoreCompileInputs.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\scopedcss\bundle\Components.styles.css
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.csproj.CopyComplete
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Components\obj\Debug\net6.0\Components.pdb
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\Components.deps.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\Components.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\Components.pdb
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.csproj.AssemblyReference.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfoInputs.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.AssemblyInfo.cs
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.csproj.CoreCompileInputs.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\scopedcss\bundle\Components.styles.css
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.csproj.CopyComplete
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\ref\Components.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Components\obj\Debug\net6.0\Components.pdb

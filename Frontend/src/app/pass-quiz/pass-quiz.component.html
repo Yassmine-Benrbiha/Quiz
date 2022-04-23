@@ -1,0 +1,159 @@
+<div class="main-content">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <link
+    rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous"
+  />
+  <div class="content">
+  <div id="quiz">
+    <legend style="text-align: center; font-size: 18pt; font-weight: bold">
+      {{ quiz.title }}
+    </legend>
+
+    <div class="text-sm-left" *ngIf="mode == 'quiz' && quiz">
+      <mat-card fxFlex="500px" fxFlex.xs="100%">
+        <div *ngFor="let question of filteredQuestions">
+          <div class="badge badge-info">
+            Question {{ pager.index + 1 }} of {{ pager.count }}.
+          </div>
+          <h2>
+            {{ pager.index + 1 }}. <span [innerHTML]="question.text"></span>
+          </h2>
+          <br />
+          <div class="col-md-6" *ngFor="let option of question.options">
+            <div class="row">
+              <label>
+                <meta charset="utf-8" />
+                <mat-checkbox
+                  class="btn btn-dark"
+                  color="“white”"
+                  [attr.for]="option.id"
+                  id="{{ option.id }}"
+                  [(ngModel)]="option.selected"
+                  (change)="onSelect(question, option)"
+                >
+                  {{ option.text }}
+                </mat-checkbox>
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(0)"
+          >
+            First
+          </button>
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(pager.index - 1)"
+          >
+            Prev
+          </button>
+          <button class="btn btn-info" (click)="goTo(pager.index + 1)">
+            Next
+          </button>
+          <button
+            class="btn btn-default"
+            *ngIf="config.allowBack"
+            (click)="goTo(pager.count - 1)"
+          >
+            Last
+          </button>
+          <pagination
+            *ngIf="config.showPager"
+            direction-links="false"
+            total-items="totalItems"
+            items-per-page="itemsPerPage"
+            ng-model="currentPage"
+            ng-change="pageChanged()"
+          ></pagination>
+        </div>
+      </mat-card>
+    </div>
+
+    <div class="row review" *ngIf="mode == 'review'">
+      <mat-card fxFlex="500px" fxFlex.xs="100%">
+        <div
+          class="col-sm-4"
+          *ngFor="let question of quiz.questions; let index = index"
+        >
+          <div
+            class="btn btn-dark"
+            (click)="goTo(index)"
+            class="{{
+              isAnswered(index) == 'Answered' ? 'answered' : 'not-answered'
+            }}"
+          >
+            {{ index + 1 }}. {{ isAnswered(index) }}
+          </div>
+        </div>
+      </mat-card>
+    </div>
+    <div class="result" *ngIf="mode == 'result'">
+      <mat-card fxFlex="500px" fxFlex.xs="100%">
+        <div *ngFor="let question of quiz.questions; let index = index">
+          <div class="result-question">
+            <h4>{{ index + 1 }}. {{ question.QuesText }}</h4>
+            <div class="col-md-6" *ngFor="let Option of question.options">
+              <mat-checkbox
+                class="btn btn-default"
+                id="{{ Option.id }}"
+                disabled="disabled"
+                [(ngModel)]="Option.selected"
+              >
+                {{ Option.text }}
+              </mat-checkbox>
+            </div>
+
+            <div
+              class="alert {{
+                isCorrect(question) == 'correct'
+                  ? 'alert-success'
+                  : 'alert-danger'
+              }}"
+            >
+              Your answer is {{ isCorrect(question) }}.
+            </div>
+          </div>
+        </div>
+        <hr />
+
+        <div class="text-sm-center">
+          <button type="button" class="btn btn-dark">
+            Your Score = <span class="badge badge-danger">{{ score }}%</span>
+          </button>
+        </div>
+
+        <div class="text-sm-center" *ngIf="score == 100">
+          <span class="material-icons"> emoji_emotions </span>
+        </div>
+
+        <div class="text-sm-right" *ngIf="score != 100">
+          <button class="btn btn-default" (click)="mode = 'quiz'">
+            <span class="material-icons"> emoji_people </span>Keep trying
+          </button>
+        </div>
+      </mat-card>
+    </div>
+    <hr />
+
+    <div class="text-sm-right" *ngIf="mode != 'result'">
+      <button class="btn btn-default" (click)="mode = 'quiz'">Quiz</button>
+      <button class="btn btn-default" (click)="mode = 'review'">Review</button>
+      <button class="btn btn-default" (click)="onSubmit()">
+        Verify Answers
+      </button>
+    </div>
+  </div>
+</div>
+</div>

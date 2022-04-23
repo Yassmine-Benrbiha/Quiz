@@ -1,0 +1,6 @@
+.main-content{
+    display: flex;
+    flex-direction: column;
+    background: beige;
+    padding: 100px;
+}

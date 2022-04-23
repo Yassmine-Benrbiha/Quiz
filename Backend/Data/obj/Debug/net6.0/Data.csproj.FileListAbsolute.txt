@@ -1,0 +1,51 @@
+C:\Users\benrb\projects\MyProject\Backend\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\benrb\projects\MyProject\Backend\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\benrb\projects\MyProject\Backend\Data\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\Backend\Data\bin\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\projects\MyProject\Backend\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\scopedcss\bundle\Data.styles.css
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\benrb\projects\MyProject\Backend\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\bin\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\scopedcss\bundle\Data.styles.css
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\benrb\projects\MyProject\QuizProject\Backend\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\bin\Debug\net6.0\Data.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\bin\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\scopedcss\bundle\Data.styles.css
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\benrb\OneDrive\سطح المكتب\quizPoject\quizproject\Backend\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache

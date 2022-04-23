@@ -1,0 +1,562 @@
+﻿++Solution 'Backend' ‎(3 of 3 projects)
+++Data
+i:{00000000-0000-0000-0000-000000000000}:Data
+++Connected Services 
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:>981
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:>494
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:>289
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:>1241
+++Dependencies
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:>983
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:>495
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:>288
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:>1243
+++Models
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\data\models\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\models\
+++No service dependencies discovered
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:>982
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:>496
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:>290
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:>1242
+++Analyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:analyzers
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:analyzers
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:analyzers
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:analyzers
+++Frameworks
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:frameworks
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:frameworks
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:frameworks
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:frameworks
+++Microsoft.AspNetCore.Analyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\data\microsoft.aspnetcore.app
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\microsoft.aspnetcore.app
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\microsoft.aspnetcore.app
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\dbupmigration\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{dc094b36-7d14-453f-ac84-c2760d343815}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\data\microsoft.netcore.app
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\microsoft.netcore.app
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\microsoft.netcore.app
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\dbupmigration\microsoft.netcore.app
+++Components
+i:{00000000-0000-0000-0000-000000000000}:Components
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\components\
+++Properties
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\properties\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\properties\
+++wwwroot
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\
+++DTO
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\
+++Pages
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\
+++appsettings.json
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\appsettings.json
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\appsettings.json
+++Program.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\program.cs
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\program.cs
+i:{ef0c74b3-2743-46cc-9b89-6fec134b72b6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\dbupmigration\program.cs
+++launchSettings.json
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\properties\launchsettings.json
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\properties\launchsettings.json
+++css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\css\
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\css\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\js\
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\js\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\
+++favicon.ico
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\favicon.ico
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\favicon.ico
+++CaseTypeComponent.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\components\casetypecomponent.cs
+++CaseType
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casetype\
+++Dossier
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\
+++HealthInsurance
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\
+++Location
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\location\
+++TravelInsurance
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\travelinsurance\
+++Address.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\address.cs
+++Airline.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\airline.cs
+++Airport.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\airport.cs
+++CallBack.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\callback.cs
+++CaseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casedetail.cs
+++CaseDetailLabel.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casedetaillabel.cs
+++ClientPolicyControlException.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\clientpolicycontrolexception.cs
+++ContactInitiation.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\contactinitiation.cs
+++ContactInitiationType.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\contactinitiationtype.cs
+++ContactWith.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\contactwith.cs
+++Coroner.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\coroner.cs
+++Country.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\country.cs
+++CoverageProduct.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\coverageproduct.cs
+++CoverageProductDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\coverageproductdetail.cs
+++DeadPerson.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\deadperson.cs
+++DeathDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\deathdetail.cs
+++DiagnoseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\diagnosedetail.cs
+++DossierTravelDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossiertraveldetail.cs
+++EditClientSpecificInfo.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\editclientspecificinfo.cs
+++FellowTravellerParty.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\fellowtravellerparty.cs
+++General.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\general.cs
+++HelpPlan.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\helpplan.cs
+++HelpPlanType.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\helpplantype.cs
+++Icddiagnose.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\icddiagnose.cs
+++Insurer.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\insurer.cs
+++InvolvedParty.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\involvedparty.cs
+++LocationDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\locationdetail.cs
+++MidOfficeDiagnose.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\midofficediagnose.cs
+++OrganizationUnit.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\organizationunit.cs
+++PersonalRelationship.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\personalrelationship.cs
+++Product.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\product.cs
+++SupplierInfo.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\supplierinfo.cs
+++Shared
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\shared\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\shared\
+++_ViewImports.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\_viewimports.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\_viewstart.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\_viewstart.cshtml
+++Error.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\error.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\error.cshtml
+++Index.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\index.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\index.cshtml
+++Privacy.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\privacy.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\privacy.cshtml
+++appsettings.Development.json
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\appsettings.development.json
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\appsettings.development.json
+++site.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\css\site.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\css\site.css
+++site.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\js\site.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\js\site.js
+++bootstrap
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\
+++jquery
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\
+++jquery-validation
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation-unobtrusive\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation-unobtrusive\
+++AddCaseType.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casetype\addcasetype.cs
+++CaseType.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casetype\casetype.cs
+++WizardCaseType.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\casetype\wizardcasetype.cs
+++DossierPreview
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\
+++Dossier.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossier.cs
+++DraftCallbackDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftcallbackdetail.cs
+++DraftCaseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftcasedetail.cs
+++DraftContactPerson.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftcontactperson.cs
+++DraftCoroner.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftcoroner.cs
+++DraftDeathDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftdeathdetail.cs
+++DraftDiagnoseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftdiagnosedetail.cs
+++DraftDossier.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftdossier.cs
+++DraftFellowTravellerParty.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftfellowtravellerparty.cs
+++DraftGeneralDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftgeneraldetail.cs
+++DraftHelpPlan.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\drafthelpplan.cs
+++DraftInsuree.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftinsuree.cs
+++DraftLocation.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftlocation.cs
+++DraftPolicy.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\draftpolicy.cs
+++DraftTravel.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\drafttravel.cs
+++Insuree.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\insuree.cs
+++DossierPreviewHealthInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\dossierpreviewhealthinsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewhealthinsurance.cs
+++DraftHealthInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\drafthealthinsurance.cs
+++HealthInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\healthinsurance.cs
+++HealthInsuranceCheckCriteria.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\healthinsurancecheckcriteria.cs
+++HealthInsuranceCheckResult.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\healthinsurance\healthinsurancecheckresult.cs
+++Location.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\location\location.cs
+++WizardLocation .cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\location\wizardlocation .cs
+++DraftTravelInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\travelinsurance\drafttravelinsurance.cs
+++TravelInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\travelinsurance\travelinsurance.cs
+++_Layout.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\shared\_layout.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\shared\_validationscriptspartial.cshtml
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\error.cshtml.cs
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\index.cshtml.cs
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\privacy.cshtml.cs
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\privacy.cshtml.cs
+++dist
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\dist\
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\dist\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\dist\
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\license
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\license.txt
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\license.txt
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\license.md
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++CaseTypeHelpPlanPreview.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\casetypehelpplanpreview.cs
+++CaseTypeHelpPlanTypePreview.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\casetypehelpplantypepreview.cs
+++DossierCaseTypePreview.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossiercasetypepreview.cs
+++DossierLocationTypePreview.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierlocationtypepreview.cs
+++DossierPreviewCallbackDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewcallbackdetail.cs
+++DossierPreviewCaseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewcasedetail.cs
+++DossierPreviewContactPerson.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewcontactperson.cs
+++DossierPreviewCoroner.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewcoroner.cs
+++DossierPreviewCountry.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewcountry.cs
+++DossierPreviewDeathDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewdeathdetail.cs
+++DossierPreviewDetails.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewdetails.cs
+++DossierPreviewDiagnoseDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewdiagnosedetail.cs
+++DossierPreviewFellowTravellerParty.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewfellowtravellerparty.cs
+++DossierPreviewGeneralDetail.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewgeneraldetail.cs
+++DossierPreviewHelpPlan.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewhelpplan.cs
+++DossierPreviewInsuree.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewinsuree.cs
+++DossierPreviewLocation.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewlocation.cs
+++DossierPreviewPolicy.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewpolicy.cs
+++DossierPreviewRelationShip.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewrelationship.cs
+++DossierPreviewTravel.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewtravel.cs
+++DossierPreviewTravelInsurance.cs
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\dto\dossier\dossierpreview\dossierpreviewtravelinsurance.cs
+++_Layout.cshtml.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\pages\shared\_layout.cshtml.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\pages\shared\_layout.cshtml.css
+++jquery.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\dist\jquery.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\dist\jquery.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\jquery\dist\jquery.min.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{19dd8070-0e25-4bd4-b0e8-9582a731b22f}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\components\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Backend
+i:{00000000-0000-0000-0000-000000000000}:Backend
+++Controllers
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\controllers\
+++CaseTypeController.cs
+i:{333c4622-170a-46a3-a984-eb00f9247aa6}:c:\users\benrb\onedrive\سطح المكتب\my project\backend\backend\controllers\casetypecontroller.cs
+++Solution 'Backend' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:Backend.sln
+++DbUpMigration
+i:{00000000-0000-0000-0000-000000000000}:DbUpMigration
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll

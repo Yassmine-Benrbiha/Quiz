@@ -1,0 +1,31 @@
+<div class="main-content">
+  <h3 class="text-sm-center">
+    <span class="material-icons"> notification_important </span> TAKE A QUIZ NOW
+    !
+  </h3>
+  <div class="row">
+    <div class="col-md-4" *ngFor="let item of quizzes">
+      <div
+        class="card card-chart"
+        style="height: fit-content; width: fit-content"
+      >
+        <div class="card-header text-center">
+          <button
+            mat-button
+            color="primary"
+            class="card-title"
+            (click)="redirectToQuiz(item.id)"
+          >
+            <span class="material-icons"> link </span>{{ item.title }}
+          </button>
+        </div>
+        <div class="card-body"></div>
+        <div class="card-footer">
+          <div class="stats">
+            <i class="material-icons">face</i> Created by : {{ item.createdBy }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
